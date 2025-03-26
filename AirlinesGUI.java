@@ -67,7 +67,7 @@ public class AirlinesGUI extends JFrame {
     AirlinesManagement am = new AirlinesManagement();
 
     AirlinesGUI() {
-        super("Jack & Jill Airlines");
+        super("Rezenzo Airlines Portal");
         setSize(1200, 600);
         setLayout(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
